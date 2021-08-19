@@ -1,0 +1,106 @@
+2021-07-12 02:35:01,445 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-07-12 02:35:01,539 [INFO] from org.hibernate.validator.internal.util.Version in play-dev-mode-akka.actor.default-dispatcher-11 - HV000001: Hibernate Validator 6.1.0.Final
+2021-07-12 02:35:01,681 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-11 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 02:35:01,686 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-11 - Application started (Dev) (no global state)
+2021-07-12 03:01:26,405 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-6 - Slf4jLogger started
+2021-07-12 03:01:26,447 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-5 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 03:01:26,450 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-5 - Application started (Dev) (no global state)
+2021-07-12 12:57:17,881 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-07-12 12:57:18,377 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 6.1.0.Final
+2021-07-12 12:57:19,704 [WARN] from play.filters.hosts.AllowedHostsFilter in application-akka.actor.default-dispatcher-4 - Host not allowed: localhost:37117
+2021-07-12 12:57:19,862 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-07-12 12:57:19,868 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-5 - Terminating server binding for /[0:0:0:0:0:0:0:0]:37117
+2021-07-12 12:57:19,878 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-2 - Running provided shutdown stop hooks
+2021-07-12 12:57:34,463 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-7 - Slf4jLogger started
+2021-07-12 12:57:34,499 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-5 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 12:57:34,501 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-5 - Application started (Dev) (no global state)
+2021-07-12 12:59:20,351 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-5 - Slf4jLogger started
+2021-07-12 12:59:20,375 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-21 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 12:59:20,376 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-21 - Application started (Dev) (no global state)
+2021-07-12 13:01:15,433 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-07-12 13:01:15,910 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 6.1.0.Final
+2021-07-12 13:01:17,110 [WARN] from play.filters.hosts.AllowedHostsFilter in application-akka.actor.default-dispatcher-8 - Host not allowed: localhost:37117
+2021-07-12 13:01:17,299 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-07-12 13:01:17,304 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-2 - Terminating server binding for /[0:0:0:0:0:0:0:0]:37117
+2021-07-12 13:01:17,314 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-5 - Running provided shutdown stop hooks
+2021-07-12 13:01:35,946 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-6 - Slf4jLogger started
+2021-07-12 13:01:35,978 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-20 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 13:01:35,980 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-20 - Application started (Dev) (no global state)
+2021-07-12 13:04:04,745 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-6 - Slf4jLogger started
+2021-07-12 13:04:04,766 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-19 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 13:04:04,767 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-19 - Application started (Dev) (no global state)
+2021-07-12 13:08:51,847 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-07-12 13:08:52,347 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 6.1.0.Final
+2021-07-12 13:08:53,593 [WARN] from play.filters.hosts.AllowedHostsFilter in application-akka.actor.default-dispatcher-4 - Host not allowed: localhost:37117
+2021-07-12 13:08:53,783 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-07-12 13:08:53,789 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-5 - Terminating server binding for /[0:0:0:0:0:0:0:0]:37117
+2021-07-12 13:08:53,798 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-2 - Running provided shutdown stop hooks
+2021-07-12 13:08:59,678 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-5 - Slf4jLogger started
+2021-07-12 13:08:59,703 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-5 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 13:08:59,704 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-5 - Application started (Dev) (no global state)
+2021-07-12 13:10:08,655 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-07-12 13:10:09,202 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 6.1.0.Final
+2021-07-12 13:10:10,544 [WARN] from play.filters.hosts.AllowedHostsFilter in application-akka.actor.default-dispatcher-4 - Host not allowed: localhost:37117
+2021-07-12 13:10:10,715 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-07-12 13:10:10,720 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Terminating server binding for /[0:0:0:0:0:0:0:0]:37117
+2021-07-12 13:10:10,730 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Running provided shutdown stop hooks
+2021-07-12 13:10:15,416 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-6 - Slf4jLogger started
+2021-07-12 13:10:15,438 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-19 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2021-07-12 13:10:15,439 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-19 - Application started (Dev) (no global state)
+2021-07-12 14:50:11,157 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-shutdown-hook-1 - Stopping Akka HTTP server...
+2021-07-12 14:50:11,163 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-10 - Terminating server binding for /[0:0:0:0:0:0:0:0]:9000
+2021-07-12 14:50:11,641 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-23 - Running provided shutdown stop hooks
+2021-08-19 18:01:43,885 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2021-08-19 18:01:44,605 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 6.1.0.Final
+2021-08-19 18:01:46,403 [WARN] from play.filters.hosts.AllowedHostsFilter in application-akka.actor.default-dispatcher-7 - Host not allowed: localhost:37117
+2021-08-19 18:01:46,583 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-08-19 18:01:46,590 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Terminating server binding for /[0:0:0:0:0:0:0:0]:37117
+2021-08-19 18:01:46,599 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Running provided shutdown stop hooks
